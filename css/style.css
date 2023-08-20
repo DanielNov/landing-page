@@ -75,3 +75,34 @@ button {
     height: auto;
     width: 450px;
 }
+
+.info-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin: 50px;
+}
+
+.img-boxes {
+    color: #1F2937;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.image {
+    border-radius: 10px;
+    width: 120px;
+    height: 120px;
+}
+
+.box {
+    max-width: 120px;
+    text-align: center;
+}
+
+.container1 {
+    height: 400px;
+}
